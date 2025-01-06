@@ -1,5 +1,6 @@
 # File: tracking/center_track.py
 
+"""""
 class CenterTracker:
     def __init__(self):
         self.tracks = {}
@@ -31,3 +32,4 @@ class CenterTracker:
 
     def get_tracks(self):
         return [(track_id, center) for track_id, center in self.tracks.items()]
+"""""
