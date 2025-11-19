@@ -1,5 +1,3 @@
-Here’s a complete `README.md` ready for your repo, formatted and tailored to your Python-based tracking and monitoring system:
-
 ---
 
 ````markdown
