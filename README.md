@@ -1,7 +1,3 @@
-
----
-
-````markdown
 # Tracking & Monitoring System 🚨
 
 A real-time object tracking and monitoring system using **YOLO**, **Deep SORT**, and Python, designed for CCTV surveillance, anomaly detection, and proactive alerts.
