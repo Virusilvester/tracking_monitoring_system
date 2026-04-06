@@ -174,8 +174,6 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 * GitHub: [@Virusilvester](https://github.com/Virusilvester)
 * Email: *[silvesterchongo@gmail.com](mailto:silvesterchongo@gmail.com)*
 
-```
-
 ---
 
 
